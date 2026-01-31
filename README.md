@@ -23,9 +23,8 @@ An AI-powered web application that recommends job roles based on user skills usi
 ---
 
 ## 📂 Project Structure
-ai_job_recommender/ │ ├── app.py ├── recommender.py ├── data/ │   └── jobs.csv ├── templates/ │   └── index.html ├── static/ │ 
-
-└── style.css └── README.md
+ai_job_recommender/ │ ├── app.py ├── recommender.py ├── data/ │   └── jobs.csv ├── templates/ │   └── index.html ├── static/ 
+|── style.css └── README.md
 ---
 
 ## ⚙️ How It Works
